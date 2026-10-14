@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is I Gede Raditya Airlangga Ariana and I'm a Deep Learning & Neural Netowork Enthusiast from Telkom University, Bandung</h2>
+<h2 data-importer="text" align="center">Hi 👋! My name is I Gede Raditya Airlangga Ariana and I'm a Deep Learning & Neural Netowork Enthusiast from Telkom University, Bandung</h2>
 
 ###
 
@@ -23,4 +23,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /><a/>
 </div>
 
+<div align="center">
+  | Month    | Savings |
+  | -------- | ------- |
+  | January  | $250    |
+  | February | $80     |
+  | March    | $420    |
+<div/>
 ###
